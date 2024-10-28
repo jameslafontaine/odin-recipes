@@ -11,8 +11,26 @@ h1 {
     color: white;
     font-weight: 1000;
     text-align: center;
+    font-size: 72px;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .center {
-    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.home-li {
+    background-color: white;
+    display: inline-block;
+    padding: 25px;
+    margin: 90px;
+    border: black 2px solid;
+}
+
+#home-list-container {
+    margin: 100px;
 }
