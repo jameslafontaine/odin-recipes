@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(205, 150, 65, 255);
+}
+
+ul a {
+    font-size: 32px;
+}
+
+h1 {
+    color: white;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
